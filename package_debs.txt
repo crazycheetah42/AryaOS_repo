@@ -1,1 +1,1 @@
-
+GyanAI = https://github.com/crazycheetah42/AryaOS_repo/releases/download/repo/gyanai
